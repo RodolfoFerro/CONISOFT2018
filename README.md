@@ -3,7 +3,7 @@
 
 La 6ª edición de la Conferencia Internacional de Investigación e Innovación en Ingeniería de Software ([CONISOFT '18](http://conisoft.org/)) se celebra en San Luis Potosí, S.L.P., México; del 24 al 26 de octubre de 2018. El objetivo de la conferencia es reunir a profesionales e investigadores de la academia, la industria y el gobierno para avanzar en el estado del arte en Ingeniería de Software, así como generar sinergia entre la academia y la industria para definir una agenda de colaboración para apoyar y promover el desarrollo de la industria del software en México y a nivel internacional.
 
-Este es un taller de Python 🐍 introductorio a [redes neuronales](https://en.wikipedia.org/wiki/Artificial_neural_network) usando [Keras](https://keras.io/), en el que participo como [GitHub Campus Expert](https://githubcampus.expert/RodolfoFerro/).
+Este es un taller de Python 🐍 introductorio a [redes neuronales](https://en.wikipedia.org/wiki/Artificial_neural_network) usando [Keras](https://keras.io/), en el que participo como [GitHub Campus Expert](https://githubcampus.expert/RodolfoFerro/). 🚩
 
 
 Puedes ver los [slides en vivo](https://goo.gl/MhTN2V).
